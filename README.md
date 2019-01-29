@@ -9,7 +9,7 @@ Code Files
 CNN.ipynb
 1) Open the folder entitled “Code”
 2) Open the Folder entitled “CNN”
-   Download the dataset from http://www.cs.toronto.edu/~kriz/cifar.html and place the train and test files in the “CNN” folder
+   Download the CIFAR-100 dataset from http://www.cs.toronto.edu/~kriz/cifar.html and place the train and test files in the “CNN” folder
 3) Open the CNN.ipynb file and follow the comments. Sequentially execute every cell in the  notebook. 
 
 SVM with HOG.ipynb
